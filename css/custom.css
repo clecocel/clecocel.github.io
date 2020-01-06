@@ -1,0 +1,10 @@
+.btn-nyansa {
+  border-color:#8267ad;
+  background-color:#8267ad;
+  color: #ffffff;
+}
+
+.btn-nyansa:hover {
+  border-color:#584675;
+  background-color:#584675;
+}
